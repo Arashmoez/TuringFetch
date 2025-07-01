@@ -1,13 +1,19 @@
 # TuringFetch
+
 My custom fastfetch config file for TuringTeam.
 
-Requirements:
+Here’s a screenshot of the app:
+
+![App Screenshot](./demo.png)
+
+# Requirements
 
 Fastfetch should be installed.
 Check this page if it's not already installed.
 https://github.com/fastfetch-cli/fastfetch.
 
-Installation:
+#Installation
+
 1) Clone the project.
 https://github.com/Arashmoez/TuringFetch.git
 
