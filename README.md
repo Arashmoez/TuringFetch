@@ -30,3 +30,6 @@ Run:
 `./install.sh`
 
 Windows script will be under development.
+
+If you encounter any issues please contact me, it's highly appreciated.
+ 
